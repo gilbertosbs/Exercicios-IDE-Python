@@ -1,3 +1,4 @@
+#programa que pede o nome e senha e avalia se a senha é keyboard acesso permitido
 name=str(input("Digite o nome:"))
 if name=='Gilberto':
    print('hello Gilberto')
