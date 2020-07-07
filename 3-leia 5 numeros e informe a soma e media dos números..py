@@ -1,0 +1,10 @@
+#apresenta a soma e a media
+a=int(input("Digite o primeiro numero:"))
+b=int(input("Digite o segundo numero:"))
+c=int(input("digite o terceiro numero:"))
+d=int(input("digite o quarto numero:"))
+e=int(input("digite o quinto numero:"))
+soma=(a+b+c+d+e)
+print("A soma é de %d" % soma)
+média=(soma/5)
+print("A média é de %d" % média)
