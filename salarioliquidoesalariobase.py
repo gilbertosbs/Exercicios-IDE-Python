@@ -1,4 +1,4 @@
-'Programa para calcular a area de uma circunferencia'
+'Programa para calcular salario liquido e salario base + cesta básica
 ht=float(input("Digite as horas trabalhadas:"))
 vh=float(input("Digite o valor hora:"))
 pd=float(input("Digite o porcentual de descontos:"))
